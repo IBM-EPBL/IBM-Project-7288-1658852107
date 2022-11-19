@@ -31,8 +31,13 @@ TASKS COMPLETED:
 7. APPLICATION BUILDING
 8. TRAINING THE MODEL ON IBM
 9. PROJECT DEVELOPMENT PHASE:
+
       i. Sprint 1
+      
       ii. Sprint 2
+      
       iii. Sprint 3
+      
       iv. Sprint 4
+      
 10. PROJECT REPORT
